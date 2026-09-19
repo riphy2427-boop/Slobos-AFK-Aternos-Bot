@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "karmazsmp.aternos.me",
+    "port": 4677,
     "version": "",
     "try-creative": false
   },
